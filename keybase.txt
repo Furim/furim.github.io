@@ -1,1 +1,56 @@
-Hello World
+==================================================================
+https://keybase.io/furimmm
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://furim.github.io
+  * I am furimmm (https://keybase.io/furimmm) on keybase.
+  * I have a public key ASCa2DihZnoevu64D6UyQIPGbfh0Mi1LtKGVaabAal24pAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a74d4f795f0202971d82cdc69bf76364f6575169f928a73f83f3e9ac2755e4000a",
+      "host": "keybase.io",
+      "kid": "01209ad838a1667a1ebeeeb80fa5324083c66df874322d4bb4a19569a6c06a5db8a40a",
+      "uid": "70d618e2aef38c0787ae1a0a454e8319",
+      "username": "furimmm"
+    },
+    "merkle_root": {
+      "ctime": 1610291203,
+      "hash": "e4dfea7966146d619a9428b649d96feccbe4a745a570407ca1f48d81ea3f13a46e53a47ab326188d386483e2cf79b255175dafc3350edfa757b511404fd226ef",
+      "hash_meta": "58ad7da11807568b2492e9c8c3b16f054eeaf812ae08ad6bb0f2ea6475156ec0",
+      "seqno": 18675613
+    },
+    "service": {
+      "entropy": "v9hpeDBs9c6HtzBmfyRePfVv",
+      "hostname": "furim.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.2"
+  },
+  "ctime": 1610291259,
+  "expire_in": 504576000,
+  "prev": "8ed2dea94783dac28d5f5b00a838819efeb7c82953aac42238237b33d9255101",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgmtg4oWZ6Hr7uuA+lMkCDxm34dDItS7ShlWmmwGpduKQKp3BheWxvYWTESpcCFMQgjtLeqUeD2sKNX1sAqDiBnv63yClTqsQiOCN7M9klUQHEIDyOHEntYXG0mcKGJ1VgW72O3we7HG6P5/xC2MGkMfh7AgHCo3NpZ8RAnQeRgZ1rAVQ5A7RVQ08NQqvswDAeS+0fo7ojJjuk+U7d5t8p5lHn0bsj/EZAILVRO2Rjrf34IouM/ngHmPXYBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPoq4ExyAw1Lm5oUfG82+ikwb/CWorx/iZQZom8Rwyyxo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/furimmm
+
+==================================================================
